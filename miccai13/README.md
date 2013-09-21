@@ -5,6 +5,8 @@ This page is designed for Miccai 2013 Workshop
 
 ## Todo 
 
-1. change map picture to google map code snippet
-2. update prezi link 
-3. finish & upload paper & slides
+* change map picture to google map code snippet
+* update prezi link 
+* finish & upload paper & slides
+* make width to 700 px
+* get front page to miccai
