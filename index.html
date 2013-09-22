@@ -1,13 +1,65 @@
----
-layout: default
-title: Your New Jekyll Site
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- meta data -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Front page for MICCAI 2013 ws">
+    <meta name="author" content="Zihan Chen">
+    
+    <title>MICCAI 2013</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet" media="screen">
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+    <style>
+      body {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      font-size: 15px;
+      }
+
+      .container-fluid {
+      max-width: 800px;
+      }
+
+      .center{
+      text-align:center;
+      }
+
+      h1 {
+      text-align:center;
+      font-size: 50px;
+      }
+
+    </style>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="../../assets/js/html5shiv.js"></script>
+        <script src="../../assets/js/respond.min.js"></script>
+        <![endif]-->
+  </head>
+  <body>
+
+    <div class="container container-fluid center">
+      
+      <div class="page-header">
+        <h1 class="center" id="About">MICCAI 2013 SACAI Workshop</h1>        
+      </div>
+
+      
+      <h2 class="center" id="About">Sep 26, 2013 Nagoya</h2>
+      <h2 class="center" id="About">Zihan Chen</h2>
+      <a class="h1" href="http://zihanchen.com/miccai">zihanchen.com</a>
+
+    </div> <!-- ./container -->
+
+
+    
+
+    <!-- Placed javascript at the end of the doc for fast page loading -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+  </body>
+</html>
