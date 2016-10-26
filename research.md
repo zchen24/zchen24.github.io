@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-I would like to put some research introduction here. 
+My research interests are medical/space robotics and system engineering. Following are some projects
+that I have worked on. 
 
 ## da Vinci Research Kit 
 [da Vinci research Kit](daVinciResearchKit)

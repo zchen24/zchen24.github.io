@@ -12,6 +12,9 @@ under the supervision of <span
 style="color:blue">[Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/)
 </span>. 
 
+## Curriculum Vita
+Download <span style="color:blue">[Curriculum Vita]({{ site.baseurl }}/assets/ChenCV.pdf)</span>
+
 ## Contact
 
 <!-- **Address** <br> -->
