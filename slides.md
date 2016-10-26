@@ -4,22 +4,13 @@ title: Slides
 permalink: /slides/
 ---
 
-[2016 IROS]({{site.baseurl}}/iros16) <br>
-<iframe src="https://docs.google.com/presentation/d/1AGdVMp6HHQvi66eDr1-gVaDwD8kTDnK1-r2Uljroe-c/embed?start=false&loop=false&delayms=3000"
-  frameborder="0" width="601" height="480" allowfullscreen="true"
-  mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  
-<!-- IDETC Slides  -->
-  
-[2014 TePRA]({{site.baseurl}}/tepra14) <br>
- <iframe src="https://docs.google.com/presentation/d/1kw4mRI2kB10W7MFjsShk6aRO7BcBKAVGpg9JqQ5AS2I/embed?start=false&loop=false&delayms=3000"
- frameborder="0" width="600" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-[2013 IROS]({{site.baseurl}}/iros13) <br>
-<iframe	src="https://docs.google.com/presentation/d/1SIdBZ5iI44C4o4mDx3X6LbidhXMbkIJC8XYk7VIsOl4/embed?start=false&loop=false&delayms=3000" 
-	frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-[2013 MICCAI Workshop]({{site.baseurl}}/miccai13) <br>
-<iframe src="http://prezi.com/embed/cg3worz_wh91/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="640" height="480" frameBorder="0"></iframe>
+## Conference Presentation
+- [2016 IROS: Virtual Fixture Assistance for Needle Passing and Knot Tying]({{site.baseurl}}/iros16) 
+- [2014 TePRA: Multi-kilohertz control of multiple robots via IEEE-1394]({{site.baseurl}}/tepra14) 
+- [2013 IROS: Force control of a non-backdrivable robot without a force sensor]({{site.baseurl}}/iros13)
+- [2013 MICCAI WS: An open-source Platform for Telesurgical Robotics Research]({{site.baseurl}}/miccai13) 
 
 
+## Others 
+- [ROSCon 2016 Review](https://docs.google.com/presentation/d/1Cg-yGKy2Nro1DDITcCr6ESaermom_wFAQaR1qjgx2WY/edit?usp=sharing)
+- [IROS 2016 Review](https://docs.google.com/presentation/d/1Cg-yGKy2Nro1DDITcCr6ESaermom_wFAQaR1qjgx2WY/edit?usp=sharing)
