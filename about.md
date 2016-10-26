@@ -14,14 +14,26 @@ style="color:blue">[Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/pe
 
 ## Contact
 
-**Address** <br>
-136 Hackerman Hall Malone <br>
-3400 N Charles St <br>
-Baltimore, MD 21218 <br>
+<!-- **Address** <br> -->
+<!-- 136 Hackerman Hall <br> -->
+<!-- 3400 N Charles St <br> -->
+<!-- Baltimore, MD 21218 <br> -->
 
-**Phone**: +1 (443) 676-4027 <br>
-**Email**: zihan.chen at jhu.edu <br>
-<br>
-**vCard** <br>
+<!-- **Phone**: +1 (443) 676-4027 <br> -->
+<!-- **Email**: zihan.chen at jhu.edu <br> -->
+<!-- <br> -->
+
+| **Phone**     | +1(443) 676-4027      |
+| **Email**     | zihan.chen@jhu.edu    |
+| **Web**       | http://zihanchen.com/ |
+| **Address**   | 136 Hackerman Hall <br> 3400 N Charles St<br> Baltimore, MD 21218 |
+
+
+## vCard
 <img src="{{ site.baseurl }}/assets/businesscard/vcard.png" width="300">
+
+
+
+
+
 
