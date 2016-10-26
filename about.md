@@ -6,25 +6,13 @@ permalink: /about/
 
 I am a Ph.D. student in the Computer Science Department at Johns Hopkins
 University. I have been working in the Laboratory for Computational
-Sensing and Robotics (<span
-style="color:blue">[LCSR](http://lcsr.jhu.edu/)</span>) since 2010
-under the supervision of <span
-style="color:blue">[Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/)
-</span>. 
+Sensing and Robotics ([LCSR](http://lcsr.jhu.edu/)) since 2010
+under the supervision of [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/). 
 
 ## Curriculum Vita
-Download <span style="color:blue">[Curriculum Vita]({{ site.baseurl }}/assets/ChenCV.pdf)</span>
+Download [Curriculum Vita]({{ site.baseurl }}/assets/ChenCV.pdf)
 
 ## Contact
-
-<!-- **Address** <br> -->
-<!-- 136 Hackerman Hall <br> -->
-<!-- 3400 N Charles St <br> -->
-<!-- Baltimore, MD 21218 <br> -->
-
-<!-- **Phone**: +1 (443) 676-4027 <br> -->
-<!-- **Email**: zihan.chen at jhu.edu <br> -->
-<!-- <br> -->
 
 | **Phone**     | +1(443) 676-4027      |
 | **Email**     | zihan.chen@jhu.edu    |
