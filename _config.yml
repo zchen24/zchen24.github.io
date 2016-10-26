@@ -32,3 +32,11 @@ theme_color: black
 # Build settings
 markdown: kramdown
 
+# Permalinks
+permalink: none
+
+# Collections
+collections:
+  research:
+    output: true
+  
