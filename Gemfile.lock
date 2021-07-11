@@ -53,7 +53,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12)
+  bundler (~> 2.2.10)
   jekyll (~> 3.2)
   jekyll-swiss!
   rake (~> 12.3)
