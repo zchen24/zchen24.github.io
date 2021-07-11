@@ -12,8 +12,9 @@ His work focuses on Software and Robotics.
 Download [Curriculum Vita]({{ site.baseurl }}/assets/ChenCV.pdf)
 
 ## Contact
-| **Email**     | zihan.chen.jhu@gmail.com    |
-| **Web**       | http://zihanchen.com/ |
+| **Email** | zihan.chen.jhu@gmail.com |
+|-----------|--------------------------|
+| **Web**   | http://zihanchen.com/    |
 
 ## vCard
 <img src="{{ site.baseurl }}/assets/businesscard/vcard.png" width="300">
